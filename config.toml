@@ -1,8 +1,8 @@
 # Site settings
 baseURL = "https://ashy-forest-07c501103.2.azurestaticapps.net"
 languageCode = "sv-SE"
-title = "Split - HTML Template Demo"
-theme = "Skeppström Konsult"
+title = "Skeppström Konsult"
+theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Local preview mode
