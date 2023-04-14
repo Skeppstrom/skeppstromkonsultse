@@ -32,7 +32,7 @@ copyright = "&copy;2021 Your Name"
     # Image
     [params.visual.image]
       enable = true
-      file = "skeper.png"
+      file = "skeper3.png"
       position = "center center"
 
     # Video
